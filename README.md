@@ -12,3 +12,11 @@ used in this Project.
  <img src="https://i.ibb.co/V26gLPy/netflix1.png">
 </p>
 
+<br/>
+### Setup
+  - Install Material-UI Core and Icons.
+  - No need to install any other extinsions or plugins.
+  - That's it you are ready to go.
+<br/>
+### All the best.
+
