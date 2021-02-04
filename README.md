@@ -13,10 +13,13 @@ used in this Project.
 </p>
 
 <br/>
-### Setup
+
+# Setup
+
+
   - Install Material-UI Core and Icons.
   - No need to install any other extinsions or plugins.
   - That's it you are ready to go.
+
 <br/>
 ### All the best.
-
