@@ -10,6 +10,6 @@ used in this Project.
 
 
 <p align="center">
- <img src="https://i.ibb.co/KFn253Z/netflix1.png">
+ <img src="https://i.ibb.co/V26gLPy/netflix1.png">
 </p>
 
