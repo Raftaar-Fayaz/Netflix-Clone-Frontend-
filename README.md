@@ -8,7 +8,6 @@ used in this Project.
 
 ### [Visit Project]( https://netflix-clone-21aa5.web.app)
 <br/>
-<br/>
 <p align="center">
  <img src="https://i.ibb.co/V26gLPy/netflix1.png">
 </p>
