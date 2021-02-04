@@ -1,8 +1,8 @@
 # Netflix Clone
 
-A project which is inspired by Original Netflix.
-It is a simple single page project
-In this Single Page Project Visitor can View the Trailers.
+A project which is inspired by Original Netflix.<br/>
+It is a simple single page project.
+In this project visitor can view the Trailers.
 React JS, Google Firebase(Deployment, Hosting), Material UI are
 used in this Project.
 
